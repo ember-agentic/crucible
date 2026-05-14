@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://crucible.emberagenticlabs.com">Website</a> · <a href="https://crucible.emberagenticlabs.com/getting-started">Getting Started</a> · <a href="https://crucible.emberagenticlabs.com/demos">Demos</a> · <a href="https://crucible.emberagenticlabs.com/best-practices">Best Practices</a>
+  <a href="https://crucible.emberagenticlabs.com">Website</a> · <a href="docs/getting-started.md">Getting Started</a> · <a href="docs/demo-walkthrough.md">Demo Walkthrough</a> · <a href="docs/best-practices.md">Best Practices</a>
 </p>
 
 <p align="center">
