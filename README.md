@@ -22,7 +22,11 @@
 </p>
 
 <p align="center">
-  <a href="https://crucible.emberagenticlabs.com">Website</a> · <a href="docs/getting-started.md">Getting Started</a> · <a href="docs/demo-walkthrough.md">Demo Walkthrough</a> · <a href="docs/best-practices.md">Best Practices</a>
+  <a href="https://crucible.emberagenticlabs.com/#access"><strong>Request Access (Private Beta)</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://crucible.emberagenticlabs.com">Website</a>
+</p>
+
+<p align="center">
+  <a href="docs/getting-started.md">Getting Started</a> · <a href="docs/demo-walkthrough.md">Demo Walkthrough</a> · <a href="docs/best-practices.md">Best Practices</a>
 </p>
 
 <p align="center">
